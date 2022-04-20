@@ -1,11 +1,11 @@
 
 <h1>Hii, I am Harshad</h1>
 
-🔭 I’m currently working on "AWS"
-🗼 I'm currently learning "Full Stack Development"
-🌱 Exploring Data Structures and Algorithms in Python.
-👯 I’m looking to collaborate on Open source projects.
-
+🔭 I’m currently working on "AWS" <br/>
+🗼 I'm currently learning "Full Stack Development" <br/>
+🌱 Exploring Data Structures and Algorithms in Python. <br/>
+👯 I’m looking to collaborate on Open source projects. <br/>
+ <br/>
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__harsh__1901) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshad1901) 
 
